@@ -15,7 +15,25 @@ Junior Data Analyst
 - **Excel** – Initial data exploration and data quality checks  
 - **SQL** – Data modeling, joins, aggregations, and business analysis  
 - **Python (Pandas, Matplotlib, Seaborn)** – Data cleaning and exploratory data analysis  
-- **Power BI** – Data modeling, DAX measures, and interactive dashboard  
+- **Power BI** – Data modeling, DAX measures, and interactive dashboard
+
+---
+
+## 📁 Project Structure
+
+## 📁 Project Structure
+
+```text
+Olist-Ecommerce-End-to-End-Data-Analysis/
+├── README.md
+├── data/
+│   ├── cleaned
+├── sql/
+├── notebooks/
+├── reports/
+└── assets/
+```
+
 
 ---
 
@@ -85,12 +103,6 @@ Junior Data Analyst
 
 ### Delivery & Customer Satisfication
 ![/Delivery_Customer_Satisfication](assets/Delivery_Customer_Satisfication.png)
-
----
-
-## 📁 Project Structure
-
---
 
 
 ---
