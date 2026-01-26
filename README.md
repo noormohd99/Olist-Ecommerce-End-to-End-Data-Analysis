@@ -75,7 +75,7 @@ Junior Data Analyst
 ## 📊 Dashboard Screenshots
 
 ### Executive Summary
-![/Executive Summary](assests/Executive_Summary.png)
+![/Executive Summary](assets/Executive_Summary.png)
 
 
 ---
