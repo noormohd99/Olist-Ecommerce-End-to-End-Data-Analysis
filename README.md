@@ -77,6 +77,14 @@ Junior Data Analyst
 ### Executive Summary
 ![/Executive Summary](assets/Executive_Summary.png)
 
+### Sales & Products
+![/Sales_Products](assets/Sales_Products.png)
+
+### Sellers Perforemance
+![/Seller_Perforemance](assets/Seller_Perforemance.png)
+
+### Delivery & Customer Satisfication
+![/Delivery_Customer_Satisfication](assets/Delivery_Customer_Satisfication.png)
 
 ---
 
