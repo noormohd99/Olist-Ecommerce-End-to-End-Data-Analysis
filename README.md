@@ -96,5 +96,11 @@ Junior Data Analyst
 ## 🔗 Dataset Source
 Olist Brazilian E-commerce Dataset (Kaggle)
 
+## ⚠️ Notes
+Due to GitHub file size limitations, large files such as the full Power BI (.pbix) file and raw datasets are not included in this repository.
+
+The dashboard screenshots and analysis outputs are provided instead to demonstrate the project results.
+
+
 
 
