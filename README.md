@@ -79,3 +79,22 @@ Junior Data Analyst
 
 ## 📁 Project Structure
 
+--
+
+
+---
+
+## ✅ Key Skills Demonstrated
+- Data Cleaning & Preparation  
+- SQL Joins & Aggregations  
+- Exploratory Data Analysis  
+- Power BI Data Modeling & DAX  
+- Business Insight & Storytelling  
+
+---
+
+## 🔗 Dataset Source
+Olist Brazilian E-commerce Dataset (Kaggle)
+
+
+
