@@ -6,7 +6,7 @@ The objective is to transform raw transactional data into **actionable business 
 
 ---
 
-##  Role
+## 👩‍💻 Role
 Junior Data Analyst
 
 ---
