@@ -21,8 +21,6 @@ Junior Data Analyst
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
 ```text
 Olist-Ecommerce-End-to-End-Data-Analysis/
 ├── README.md
